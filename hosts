@@ -1,0 +1,37 @@
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+# github
+20.205.243.166  github.com
+192.30.255.113  github.com 
+
+#Google
+142.250.72.142  google.com
+142.250.72.228  www.google.com
+2607:f8b0:4007:814::200e    google.com  
+2607:f8b0:4007:816::2004    www.google.com
+
+# v2ray
+172.67.152.9    www.v2fly.org
+104.21.41.217   www.v2fly.org
+172.67.152.9    v2fly.org
+104.21.41.217   v2fly.org
+2606:4700:3036::6815:29d9   www.v2fly.org
+2606:4700:3037::ac43:9809   www.v2fly.org
+2606:4700:3036::6815:29d9   v2fly.org
+2606:4700:3037::ac43:9809   v2fly.org
